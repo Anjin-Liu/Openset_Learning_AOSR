@@ -16,7 +16,7 @@ This is the first study to provide a generalization bound for OSL, which we do b
 
 Our solution not just learn the **decision boundary** as what closed-set learning do, but also learn the support set so that the **decision region** can be built as a closure, as shown in figure (a), (b) and (c).
 
-## For Blind Review Only
+## For Reproducing the Experiment Results
 All the running details can be checked in this repo.
 Simply open the **.ipynb** file, the experiment details will be displayed.
 
